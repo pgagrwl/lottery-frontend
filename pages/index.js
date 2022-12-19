@@ -14,9 +14,9 @@ export default function Home() {
             </Head>
             <Header />
             <LotteryEntrance />
-            <div>
+            {/* <div>
                 <h1>Template for frontend</h1>
-            </div>
+            </div> */}
         </div>
     )
 }
